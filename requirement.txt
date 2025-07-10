@@ -1,0 +1,4 @@
+httpx
+apscheduler
+beautifulsoup4
+python-dotenv
