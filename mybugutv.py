@@ -63,7 +63,7 @@ async def daily_sign():
 
 async def main():
     scheduler = AsyncIOScheduler()
-    scheduler.add_job(daily_sign, 'cron', hour=14, minute=15)
+    scheduler.add_job(daily_sign, 'cron', hour=12, minute=00)  # 每天中午12點執行簽到
     scheduler.start()
     print("自動簽到排程已啟動，按 Ctrl+C 結束...")
     try:
