@@ -1,4 +1,4 @@
-# Bugutv 自動簽到腳本
+# 布谷TV 自動簽到腳本 / Bugutv qiandao
 
 <div align="left">
   <img src="https://img.shields.io/badge/python-3.8%2B-blue" alt="Python 3.8+">
