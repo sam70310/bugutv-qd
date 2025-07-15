@@ -7,7 +7,7 @@
 </div>
 
 ## 📖 介紹
-本專案為布谷TV（bugutv.vip）自動登入並每日簽到的 Python 腳本，支援多帳號、異步執行與定時排程。
+本專案為[布谷TV](https://www.bugutv.vip/)自動登入並每日簽到的 Python 腳本，支援多帳號、異步執行與定時排程。
 
 ## 📦 Packages
 
